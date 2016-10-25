@@ -1,0 +1,8 @@
+{
+    "name": "gridonic/gettext-extractor",
+    "description": "Extract translation strings or keys from text-based files",
+    "keywords": ["translation", "i18n", "gettext"],
+    "homepage": "https://github.com/gridonic/gettext-extractor",
+    "license": "MIT",
+    "type": "tool"
+}
